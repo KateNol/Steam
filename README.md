@@ -81,3 +81,4 @@ db aufruf durch php request ersetzen
 und in python schreibt ihr den rest service
 >>>>>>> origin/main
 # REST_STEAM
+# REST_STEAM
